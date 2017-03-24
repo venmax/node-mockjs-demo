@@ -1,0 +1,20 @@
+/**
+ * studentlist echo
+ *
+ * @url /check
+ *
+ * Parameter description and other instructions。
+ */
+{
+  "totalItems":20,
+  "data":
+    {
+      "user|4":[{
+        "name": "@cname",
+        "id":"@integer(10000, 99999)",
+        "sex":"@cword('男女')",
+        "classname":"@cword('一二三四五六七八九十',1)班",
+        "grade|":"@cword('一二三四五六七八九十')年级"
+      }]
+    }
+}

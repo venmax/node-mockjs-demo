@@ -1,0 +1,17 @@
+{
+  "name": "node-mockjs-server",
+  "version": "1.0.0",
+  "description": "A simple api mock server",
+  "main": "server-example.js",
+  "scripts": {
+    "test": "node server-example.js"
+  },
+  "author": "axiu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-error-handler": "^1.1.0",
+    "express-mockjs": "^0.4.2",
+    "morgan": "^1.8.1"
+  }
+}

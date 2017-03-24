@@ -1,0 +1,18 @@
+/**
+ * question summary echo
+ *
+ * @url /echo/question
+ *
+ * Parameter description and other instructions。
+ * etc.
+ */
+{
+  "status": "SUCCESS",
+  "data":{
+    "title":"题目题目题目题目",
+    "desc":"题目简介题目简介题目简介",
+    "score":10,
+    "time":600,
+    "grade":3
+  }
+}
